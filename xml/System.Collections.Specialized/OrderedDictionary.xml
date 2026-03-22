@@ -85,7 +85,7 @@
     </Attribute>
   </Attributes>
   <Docs>
-    <summary>Represents a collection of key/value pairs that are accessible by the key or index.</summary>
+    <summary>Represents an ordered collection of key/value pairs that are accessible by the key or index. The insertion order is preserved.</summary>
     <remarks>
       <format type="text/markdown"><![CDATA[
 
